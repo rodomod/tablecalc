@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](Readme.md)
-* [Start](Start.java)
-
-* [Start](tc.png)
-
+* [TableCalc](Start.java)
+* [TableCalc](tc.png)
 * [LICENSE](LICENSE.md)
